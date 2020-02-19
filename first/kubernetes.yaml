@@ -13,7 +13,7 @@ kind: "Service"
 metadata:
   labels:
     app: "first"
-    version: "1.0.0-SNAPSHOT"
+    version: "1.0.1"
     group: "larsj"
   name: "first"
 spec:
