@@ -6,6 +6,7 @@ replicaCount: 1
 
 image:
   repository: kubernetes4lrn.azurecr.io/quarkus-first
+  version: latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
